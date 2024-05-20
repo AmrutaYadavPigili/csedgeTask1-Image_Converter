@@ -1,5 +1,5 @@
 Name: Amruta Varsha Yadav Pigili
-CseEdge Python Programming Internship
+CSEdge Python Programming Internship
 Advance Level
 
 Task 1 :Image Converter
